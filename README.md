@@ -17,3 +17,9 @@ board =
    ]
 
 To use as input, one can copy and edit the above board!
+
+
+Approch:-
+Simple yet very powerful Backtracking algorithm is used to solve the puzzle!
+To know more about the alogorithm, check out:
+https://www.geeksforgeeks.org/backtracking-algorithms/
